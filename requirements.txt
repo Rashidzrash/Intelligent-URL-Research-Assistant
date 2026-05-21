@@ -1,19 +1,9 @@
 python-dotenv
 streamlit
 tiktoken
-
-langchain
-langchain-core
-langchain-community
-langchain-classic
-
 langchain-chroma
 langchain-groq
+langchain-community
+protobuf
 langchain-huggingface
 
-chromadb==0.5.5
-protobuf==3.20.3
-
-sentence-transformers
-beautifulsoup4
-requests
