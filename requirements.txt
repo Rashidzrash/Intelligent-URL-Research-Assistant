@@ -7,4 +7,5 @@ langchain-community
 protobuf==3.20.3
 langchain-huggingface
 sentence-transformers
+beautifulsoup4
 
